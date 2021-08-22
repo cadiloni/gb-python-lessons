@@ -1,0 +1,5 @@
+Aurora: 20000
+Naomi: 32000
+Stan: 45000
+Dave: 14000
+Brian: 19000
