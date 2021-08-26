@@ -1,0 +1,3 @@
+Informatics: 100lec 50pr 20lab
+Physics: 30lec 10lab
+Physical: 30pr
